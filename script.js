@@ -1,4 +1,4 @@
-const itensDiv = document.getElementById("itens");
+/* const itensDiv = document.getElementById("itens");
 
 function criarItens() {
   for (let i = 0; i < 12; i++) {
@@ -176,4 +176,4 @@ window.onload = () => {
   preencherDataAtual();
   inicializarPedido();
   
-};
+}; */
